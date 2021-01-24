@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.candidato1" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Candidato</name>
+<widget id="br.com.sommos1" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>SOMMOS</name>
     <description>
-        Candidato 5
+        Painel SOMMOS
     </description>
     <author email="renatodnt2@gmail.com" href="https://misterchefe.com.br">
-        Candidato Team
+        SOMMOS Team
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" source="npm" />
